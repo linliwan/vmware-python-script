@@ -1,1 +1,1 @@
-# test ccc solution
+# note for vmware automation SDK python
